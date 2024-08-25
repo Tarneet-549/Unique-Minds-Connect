@@ -34,3 +34,4 @@ Future Enhancements
 Adding more diverse quiz categories and game types.
 Improving the adaptive learning algorithm for even more personalized content delivery.
 Enhancing the emotion recognition accuracy with advanced deep learning models.
+This README provides an overview of the project, highlighting its main components, features, installation, and usage instructions.
